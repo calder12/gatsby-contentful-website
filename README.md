@@ -1,2 +1,2 @@
 # Gatsby v2 - Contentful Blog Starter
-a good starting point for a gatsby website powered by contentful
+A Gatsby - Contentful blog website based off of https://github.com/Khaledgarbaya/gatsby-contentful-site updated to Gatsby v2.
