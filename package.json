@@ -1,0 +1,32 @@
+{
+  "name": "gatsby-contentful-blog-starter",
+  "description": "Gatsby v2 - Contentful Blog Starter",
+  "version": "0.0.1",
+  "author": "Rick Calder <rick@calder.io>",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "gatsby": "^2.0.75",
+    "gatsby-link": "^2.0.7",
+    "gatsby-plugin-react-helmet": "^3.0.5",
+    "gatsby-plugin-sass": "^2.0.7",
+    "gatsby-source-contentful": "^2.0.21",
+    "gatsby-transformer-remark": "^2.1.17",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0",
+    "react-helmet": "^5.2.0"
+  },
+  "keywords": [
+    "gatsby, contentful, graphql"
+  ],
+  "license": "MIT",
+  "main": "n/a",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"src/**/*.js\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.15.3"
+  }
+}
